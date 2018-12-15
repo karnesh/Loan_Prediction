@@ -8,6 +8,13 @@ This is a binary classification problem for determining loan approval.
 3. Random Forest
 4. XGBoost
 
+| Model                | Accuracy      |
+| -------------------- | ------------- |
+| Logistic Regression  | Content Cell  |
+| Decision Tree        | Content Cell  |
+| Random Forest        | Content Cell  |
+| XGBoost              | 77.99838%     |
+
 ## Things to try next
  - Grid Search for XGBoost
  - Feature engineering
