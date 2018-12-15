@@ -2,6 +2,9 @@
 
 This is a binary classification problem for determining loan approval. 
 
+## Dataset
+It comprises of train and test dataset. Train data has 13 columns (Loan_ID, Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area, Loan_Status). We have to predict whether loan gets approved or rejected that is 'Loan_Status' column.
+
 ## Models
 I tried four different models (mentioned below) and compared their performace. 
 1. Logistic Regression
