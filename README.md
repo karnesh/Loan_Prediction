@@ -12,7 +12,7 @@ This is a binary classification problem for determining loan approval.
 | -------------------- | ------------- |
 | Logistic Regression  | Content Cell  |
 | Decision Tree        | Content Cell  |
-| Random Forest        | Content Cell  |
+| Random Forest        | 80.4521%      |
 | XGBoost              | 77.99838%     |
 
 ## Things to try next
